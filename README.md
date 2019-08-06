@@ -1,0 +1,2 @@
+# logicx
+My Logicx scripts
